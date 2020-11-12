@@ -1,2 +1,2 @@
-#  Menu-de-hamburguer-animado
- Criação de um menu com animação.
+#  CSS Hamburger Animation
+ Criação de um menu hamburger com animação.
